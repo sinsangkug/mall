@@ -6,3 +6,4 @@ function BasicLayout(props){
         <div></div>
     );
 }
+// <Link>를 통한 이동
