@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Tailwind CSS를 사용하여 이 파일에서 웹사이트의 스타일을 설정합니다. */
+/* @tailwind base; - 이 지시어는 Tailwind CSS의 기본 스타일을 포함합니다. */
+/* @tailwind components; - 이 지시어는 사용자 정의 컴포넌트의 스타일을 포함합니다. */
+/* @tailwind utilities; - 이 지시어는 유틸리티 클래스들을 포함합니다. 유틸리티 클래스를 사용하면 HTML 요소에 스타일을 쉽게 적용할 수 있습니다. */
+
+ 
